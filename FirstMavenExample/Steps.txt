@@ -1,0 +1,2 @@
+build path --> jdk make it default workspace - jdk 8
+comiler -> change 1,5 to 1.8 from dropdown
